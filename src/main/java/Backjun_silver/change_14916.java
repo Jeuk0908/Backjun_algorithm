@@ -1,4 +1,4 @@
-package Backjun_Bronze;
+package Backjun_silver;
 
 import java.util.Scanner;
 //거스름돈 12916번
